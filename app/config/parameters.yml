@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 149.28.63.114
+    database_port: null
+    database_name: app_simplex_demo
+    database_user: intidev2
+    database_password: $1234ABCD%    
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: jpena@intimedia.net
+    mailer_password: jpena2011
+    secret: ebb3b01d752566d00d4d5feac94e0bd3274db98e
